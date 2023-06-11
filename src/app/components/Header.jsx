@@ -23,7 +23,7 @@ export default function Header() {
         <DarkModeSwitch />
         <Link href="https://devcircleafrica.com">
           <h2 className="text-2xl">
-            <span className="font-bold bg-[#F9B233] py-1 px-2 mr-1 rounded-lg">
+            <span className="font-bold bg-amber-600 py-1 px-2 mr-1 rounded-lg">
               Apply
             </span>
             <span className="text-xl hidden sm:inline">Now</span>
