@@ -4,6 +4,7 @@ import { AiFillHome } from "react-icons/ai";
 import { RiAdminFill } from "react-icons/ri";
 import { SiDocsdotrs } from "react-icons/si";
 import Link from "next/link";
+import DarkModeSwitch from "./DarkModeSwitch";
 
 export default function Header() {
   return (
@@ -19,6 +20,7 @@ export default function Header() {
 
       {/* right - side */}
       <div className="">
+        <DarkModeSwitch />
         <Link href="https://devcircleafrica.com">
           <h2 className="text-2xl">
             <span className="font-bold bg-[#F9B233] py-1 px-2 mr-1 rounded-lg">
