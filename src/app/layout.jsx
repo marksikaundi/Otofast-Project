@@ -6,8 +6,9 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Developer Documents",
-  description: "Create a developer document site with Next.js and MDX.",
+  title: "DevCircle Africa",
+  description: "at DevCircle Africa, we are building the next generation of African developers",
+  keywords: "Programming, content writing, Designing, Learning, Hacks, Tech, Africa, Developers, DevCircle Africa, DevCircle, Africa,"
 };
 
 export default function RootLayout({ children }) {
