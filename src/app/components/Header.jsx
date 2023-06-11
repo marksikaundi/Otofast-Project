@@ -1,8 +1,10 @@
 import React from "react";
 import MenuItems from "./MenuItems";
 import { AiFillHome } from "react-icons/ai";
+import { MdMiscellaneousServices } from "react-icons/md";
 import { RiAdminFill } from "react-icons/ri";
 import { SiDocsdotrs } from "react-icons/si";
+import { MdWork } from "react-icons/md";
 import Link from "next/link";
 import DarkModeSwitch from "./DarkModeSwitch";
 
@@ -13,9 +15,16 @@ export default function Header() {
       <div className="flex">
         <MenuItems title="HOME" address="/" Icon={AiFillHome} />
 
-        <MenuItems title="ABOUT" address="/about" Icon={RiAdminFill} />
+        <MenuItems title="SERVICES" address="/services" Icon={MdMiscellaneousServices} />
 
         <MenuItems title="DOCS" address="/docs" Icon={SiDocsdotrs} />
+
+        <MenuItems title="ABOUT" address="/about" Icon={RiAdminFill} />
+
+        <MenuItems title="JOBS" address="/jobs" Icon={MdWork} />
+
+
+        
       </div>
 
       {/* right - side */}
