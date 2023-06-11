@@ -1,15 +1,33 @@
 import React from "react";
 import MenuItems from "./MenuItems";
 import { AiFillHome } from "react-icons/ai";
+import { RiAdminFill } from "react-icons/ri";
+import { SiDocsdotrs } from "react-icons/si";
+import Link from "next/link";
 
 export default function Header() {
   return (
-    <div>
-      <div className="">
+    <div className="flex justify-between mx-2 max-w-6xl sm:mx-auto items-center py-6">
+      {/* left - side */}
+      <div className="flex">
         <MenuItems title="HOME" address="/" Icon={AiFillHome} />
+
+        <MenuItems title="ABOUT" address="/about" Icon={RiAdminFill} />
+
+        <MenuItems title="DOCS" address="/docs" Icon={SiDocsdotrs} />
       </div>
 
-      <div className=""></div>
+      {/* right - side */}
+      <div className="">
+        <Link href="https://devcircleafrica.com">
+          <h2 className="text-2xl">
+            <span className="font-bold bg-[#F9B233] py-1 px-2 mr-1 rounded-lg">
+              Apply
+            </span>
+            <span className="text-xl hidden sm:inline">Now</span>
+          </h2>
+        </Link>
+      </div>
     </div>
   );
 }
