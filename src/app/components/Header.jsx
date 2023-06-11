@@ -19,7 +19,7 @@ export default function Header() {
       </div>
 
       {/* right - side */}
-      <div className="">
+      <div className="flex items-center space-x-5">
         <DarkModeSwitch />
         <Link href="https://devcircleafrica.com">
           <h2 className="text-2xl">
