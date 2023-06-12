@@ -9,12 +9,13 @@ export const metadata = {
   title: "DevCircle Africa",
   description: "at DevCircle Africa, we are building the next generation of African developers",
   keywords: "Programming, content writing, Designing, Learning, Hacks, Tech, Africa, Developers, DevCircle Africa, DevCircle, Africa,"
+   <meta name="google-site-verification" content="AxKsSWbdXuh44fJuKn225wC7dn_GXoQUY4iXnSuhFEM" />
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-    <meta name="google-site-verification" content="AxKsSWbdXuh44fJuKn225wC7dn_GXoQUY4iXnSuhFEM" />
+   
       <body className={inter.className}>
         <Providers>
         {/* Header */}
