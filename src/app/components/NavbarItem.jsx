@@ -13,7 +13,7 @@ export default function NavbarItem({ title, param }) {
         className={`m-4 hover:text-amber-600 font-semibold p-2 ${
           programs &&
           programs === param &&
-          "underline-offset-8 decoration-4 decoration-amber-500 rounded-lg"
+          "underline underline-offset-8 decoration-4 decoration-amber-500 rounded-lg"
         }}`}
         href={`/?programs=${param}`}
       >
