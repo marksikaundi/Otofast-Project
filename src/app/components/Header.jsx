@@ -1,7 +1,6 @@
 import React from "react";
 import MenuItems from "./MenuItems";
 import { AiFillHome } from "react-icons/ai";
-import { MdMiscellaneousServices } from "react-icons/md";
 import { RiAdminFill } from "react-icons/ri";
 import { SiDocsdotrs } from "react-icons/si";
 import { MdWork } from "react-icons/md";
@@ -14,8 +13,6 @@ export default function Header() {
       {/* left - side */}
       <div className="flex">
         <MenuItems title="HOME" address="/" Icon={AiFillHome} />
-
-        <MenuItems title="SERVICES" address="/services" Icon={MdMiscellaneousServices} />
 
         <MenuItems title="DOCS" address="/docs" Icon={SiDocsdotrs} />
 
