@@ -6,9 +6,9 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "DevCircle Africa",
-  description: "at DevCircle Africa, we are building the next generation of African developers",
-  keywords: "Programming, content writing, Designing, Learning, Hacks, Tech, Africa, Developers, DevCircle Africa, DevCircle, Africa,"
+  title: "Otofast Project",
+  description: "at Otofast Project, we are building the next generation of African developers",
+  keywords: "Programming, content writing, Designing, Learning, Hacks, Tech, Africa, Otofast Project, Otofast Africa, Project, Africa Fast,"
    
 };
 
