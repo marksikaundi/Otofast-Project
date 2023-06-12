@@ -33,7 +33,7 @@ export default function page() {
         Whether you are looking to network, collaborate on a project, or simply
         learn more about the latest trends and technologies, Otofast is the
         place to be for anyone passionate about tech. The entire application is
-        Developed on so cool Technologie.
+        Developed with cool Technologie.
       </p>
 
       <div>
