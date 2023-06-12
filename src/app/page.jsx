@@ -5,7 +5,7 @@ export default function Home() {
     <div className="">
       <h1 className=" text-center text-6xl">Hello World, Coming Soon</h1>
       <p className="text-center text-lg">
-        Currently under Development 👨‍💻 by Our team at DevCircle Africa
+        Currently we are under Development 👨‍💻 by Our team at DevCircle Africa
       </p>
     </div>
   );
