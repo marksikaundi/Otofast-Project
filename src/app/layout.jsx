@@ -14,6 +14,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+    <meta name="google-site-verification" content="AxKsSWbdXuh44fJuKn225wC7dn_GXoQUY4iXnSuhFEM" />
       <body className={inter.className}>
         <Providers>
         {/* Header */}
