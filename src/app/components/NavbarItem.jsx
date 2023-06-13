@@ -1,23 +1,11 @@
-"use client";
 import Link from "next/link";
-import React from "react";
 
-import { useSearchParams } from "next/navigation";
-
-export default function NavbarItem({ title, param }) {
-  const searchParams = useSearchParams(param);
-  const programs = searchParams.get("programs");
+export default function NavbarItem({ title, address }) {
   return (
-    <div>
-      <Link
-        className={`m-4 hover:text-amber-600 font-semibold p-2 ${
-          programs &&
-          programs === param &&
-          "underline underline-offset-8 decoration-4 decoration-amber-500 rounded-lg"
-        }}`}
-        href={`/?programs=${param}`}
-      >
-        {title}
+    <div className="">
+      <Link className="mx-4 lg:mx-6 hover:text-amber-600" href={address}>
+    
+        <p className="hidden sm:inline my-2 text-sm">{title}</p>
       </Link>
     </div>
   );
