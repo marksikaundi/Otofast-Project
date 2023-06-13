@@ -5,7 +5,7 @@ export default function NavbarItem({ title, address }) {
     <div className="">
       <Link className="mx-4 lg:mx-6 hover:text-amber-600" href={address}>
     
-        <p className="hidden sm:inline my-2 text-sm">{title}</p>
+        <p className="sm:inline p-2 my-2 text-sm">{title}</p>
       </Link>
     </div>
   );
