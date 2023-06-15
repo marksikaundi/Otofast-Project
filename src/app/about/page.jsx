@@ -7,7 +7,7 @@ export default function page() {
       <h5 className="text-sm">Last updates 06/12/2023 by Mark Sikaundi</h5>
 
       <p className="">
-        This is home to Otofast Project, Otofast Project is a vibrant community
+        Otofast Project is a vibrant community
         of technology enthusiasts and professionals who are passionate about
         exploring the latest trends and innovations in the tech industry. With a
         focus on fostering collaboration, creativity, and learning, the
