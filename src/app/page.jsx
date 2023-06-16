@@ -12,7 +12,7 @@ export default function Home() {
       <div className="flex flex-col md:flex-row bg-gray-200 rounded-lg shadow-lg p-8 m-4">
         <div className="md:w-1/2">
           <h1 className="text-2xl font-bold mb-4">Welcome to Otofast</h1>
-          <p className="text-gray-800">
+          <p className="text-black">
             From meetups and hackathons to online forums and social media
             groups, Otofast offers a range of opportunities for members to
             connect and engage with the community. Whether you are looking to
