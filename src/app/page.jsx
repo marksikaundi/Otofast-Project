@@ -15,7 +15,10 @@ export default function Home() {
           <p className="text-gray-800">
             From meetups and hackathons to online forums and social media
             groups, Otofast offers a range of opportunities for members to
-            connect and engage with the community.
+            connect and engage with the community. Whether you are looking to
+            network, collaborate on a project, or simply learn more about the
+            latest trends and technologies, Otofast is the place to be for
+            anyone passionate about tech.
           </p>
         </div>
         <div className="md:w-1/2 mt-4 md:mt-0">
