@@ -20,7 +20,7 @@ export default function Home() {
         </div>
         <div className="md:w-1/2 mt-4 md:mt-0">
           <Image
-            src="/src/assets/tech.jpg"
+            src="https://g.foolcdn.com/editorial/images/522643/gettyimages-989262462.jpg"
             alt="Tech 2023"
             className="w-full h-auto rounded-lg"
           />
