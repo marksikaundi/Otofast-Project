@@ -11,23 +11,21 @@ export default function Home() {
     <div className="flex justify-center items-center h-screen">
       <div className="flex flex-col md:flex-row bg-gray-200 rounded-lg shadow-lg p-8 m-4">
         <div className="md:w-1/2">
-          <h1 className="text-2xl font-bold mb-4">Welcome to My Website</h1>
+          <h1 className="text-2xl font-bold mb-4">Welcome to Otofast</h1>
           <p className="text-gray-800">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet,
-            lectus eu viverra ultricies, metus arcu porttitor nulla, eu tristique lectus
-            magna eu lectus. Aenean ut nunc nunc.
+            From meetups and hackathons to online forums and social media
+            groups, Otofast offers a range of opportunities for members to
+            connect and engage with the community.
           </p>
         </div>
         <div className="md:w-1/2 mt-4 md:mt-0">
           <Image
             src="/src/assets/tech.jpg"
-            alt="Example Image"
+            alt="Tech 2023"
             className="w-full h-auto rounded-lg"
           />
         </div>
       </div>
     </div>
   );
-};
-
-
+}
