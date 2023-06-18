@@ -18,7 +18,7 @@
             alt="follow on Twitter"></a>
 </p>
 
-This is home to [Otofast Project](http://otofastproject.com/), Otofast Project is a vibrant community of technology enthusiasts and professionals who are passionate about exploring the latest trends and innovations in the tech industry. With a focus on fostering collaboration, creativity, and learning, the community provides a platform for members to connect with like-minded individuals, share their ideas and expertise, and participate in engaging discussions and events.
+Welcome to the home of innovation at [Otofast Project](http://otofastproject.com/), Otofast Project is a vibrant community of technology enthusiasts and professionals who are passionate about exploring the latest trends and innovations in the tech industry. With a focus on fostering collaboration, creativity, and learning, the community provides a platform for members to connect with like-minded individuals, share their ideas and expertise, and participate in engaging discussions and events.
 
 Whether you're a seasoned tech expert or just starting out in your career, Otofast offers a welcoming and supportive environment where you can learn from others, gain new insights and perspectives, and build meaningful connections with peers and mentors. Members of the community come from a diverse range of backgrounds and fields, including software development, data science, cybersecurity, AI, and more, making it a great place to explore different areas of interest and broaden your horizons.
 

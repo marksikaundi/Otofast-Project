@@ -13,7 +13,7 @@ export default function Home() {
         <div className="md:w-1/2">
           <h1 className="text-2xl font-bold mb-4">Otofast</h1>
           <p className="text-black">
-            From meetups and hackathons to online forums and social media
+            From Learning and hackathons to online forums and social media
             groups, Otofast offers a range of opportunities for members to
             connect and engage with the community. Whether you are looking to
             network, collaborate on a project, or simply learn more about the
