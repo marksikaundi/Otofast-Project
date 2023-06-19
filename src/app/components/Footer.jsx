@@ -3,7 +3,10 @@ import React from 'react'
 export default function Footer() {
   return (
     <div>
-      footer
+      <footer>
+      {/* Footer content */}
+      <p>Otofast Project &copy; {new Date().getFullYear()}</p>
+    </footer>
     </div>
   )
 }
