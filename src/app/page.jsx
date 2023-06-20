@@ -27,13 +27,7 @@ export default function Home() {
             provide them with the resources they need to grow and succeed.
           </p>
         </div>
-        <div className="md:w-1/2 mt-4 md:mt-0">
-          <Image
-            src="https://g.foolcdn.com/editorial/images/522643/gettyimages-989262462.jpg"
-            alt="Tech 2023"
-            className="w-full h-auto rounded-lg"
-          />
-        </div>
+        
       </div>
     </div>
   );
