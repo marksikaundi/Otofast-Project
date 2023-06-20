@@ -14,11 +14,11 @@ export default function Header() {
       <div className="flex">
         <MenuItems title="HOME" address="/" Icon={AiFillHome} />
 
-        <MenuItems title="DOCS" address="/docs" Icon={SiDocsdotrs} />
+        <MenuItems title="COURSES" address="/courses" Icon={SiDocsdotrs} />
 
         <MenuItems title="ABOUT" address="/about" Icon={RiAdminFill} />
 
-        <MenuItems title="JOBS" address="/jobs" Icon={MdWork} />
+        <MenuItems title="FQA" address="/fqa" Icon={MdWork} />
 
 
         
