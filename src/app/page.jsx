@@ -11,12 +11,12 @@ export default function Home() {
         <div className="flex justify-center">
           <div className="w-full sm:w-1/2 lg:w-1/3 px-4">
             <div className="bg-white rounded-lg shadow-lg p-6">
-              <h2 className="text-xl font-bold text-center mb-4">Basic Plan</h2>
+              <h2 className="text-xl font-bold text-center mb-4"> Life Time</h2>
               <p className="text-gray-600 text-center mb-6">
-                Perfect for small businesses
+                Perfect for Everyone
               </p>
               <div className="text-3xl font-bold text-center mb-8">
-                $99<span className="text-gray-600 text-lg">/month</span>
+                $99<span className="text-gray-600 text-lg"></span>
               </div>
               <ul className="text-gray-600 mb-8">
                 <li className="flex items-center mb-2">
