@@ -2,99 +2,57 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div>
-      <header className="bg-blue-500 py-4">
-        <h1 className="text-white text-2xl text-center font-bold"> Pricing</h1>
-      </header>
-
-      <main className="container mx-auto py-8">
-        <div className="flex justify-center">
-          <div className="w-full sm:w-1/2 lg:w-1/3 px-4">
-            <div className="bg-white rounded-lg shadow-lg p-6">
-              <h2 className="text-xl font-bold text-center mb-4"> Life Time</h2>
-              <p className="text-gray-600 text-center mb-6">
-                Perfect for Everyone
-              </p>
-              <div className="text-3xl font-bold text-center mb-8">
-                $99<span className="text-gray-600 text-lg"></span>
+    <div className="bg-gray-100">
+      {/* Navbar */}
+      <nav className="bg-white shadow-lg">
+        <div className="container mx-auto px-4">
+          <div className="flex items-center justify-between h-16">
+            <div className="flex">
+              <a
+                href="#"
+                className="flex items-center text-blue-600 hover:text-blue-800 font-semibold text-lg"
+              >
+                Otofast
+              </a>
+            </div>
+            <div className="hidden md:block">
+              <div className="ml-10 flex items-baseline space-x-4">
+                <a
+                  href="#"
+                  className="text-gray-600 hover:text-gray-800 px-3 py-2 rounded-md text-sm font-medium"
+                >
+                  Docs
+                </a>
+                <a
+                  href="#"
+                  className="text-gray-600 hover:text-gray-800 px-3 py-2 rounded-md text-sm font-medium"
+                >
+                  Guides
+                </a>
+                <a
+                  href="#"
+                  className="text-gray-600 hover:text-gray-800 px-3 py-2 rounded-md text-sm font-medium"
+                >
+                  References
+                </a>
               </div>
-              <ul className="text-gray-600 mb-8">
-                <li className="flex items-center mb-2">
-                  <svg
-                    className="w-4 h-4 mr-2 text-green-500"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth="2"
-                      d="M5 13l4 4L19 7"
-                    />
-                  </svg>
-                  Unlimited users
-                </li>
-                <li className="flex items-center mb-2">
-                  <svg
-                    className="w-4 h-4 mr-2 text-green-500"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth="2"
-                      d="M5 13l4 4L19 7"
-                    />
-                  </svg>
-                  24/7 customer support
-                </li>
-                <li className="flex items-center mb-2">
-                  <svg
-                    className="w-4 h-4 mr-2 text-green-500"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth="2"
-                      d="M5 13l4 4L19 7"
-                    />
-                  </svg>
-                  Analytics dashboard
-                </li>
-                <li className="flex items-center">
-                  <svg
-                    className="w-4 h-4 mr-2 text-green-500"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth="2"
-                      d="M5 13l4 4L19 7"
-                    />
-                  </svg>
-                  Monthly reports
-                </li>
-              </ul>
-              <button className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded w-full">
-                Sign Up
-              </button>
             </div>
           </div>
         </div>
+      </nav>
+
+      {/* Main Content */}
+      <main className="container mx-auto py-10 px-4">
+        <h1 className="text-4xl font-bold mb-6">Welcome to Otofast Project</h1>
+        <p className="text-gray-800 text-lg">
+        Otofast Project (OTP) provides information about Open Web
+          technologies including HTML, CSS, JavaScript and also Data science including Deep learning & Machine learning. It also includes
+          documentation on various DevCircle Africa products and projects such as 
+          Developer Programs and open source.
+        </p>
       </main>
+
+      
     </div>
 
     // <div className="flex justify-center items-center h-screen">
