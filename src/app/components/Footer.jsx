@@ -64,7 +64,10 @@ export default function Footer() {
           </ul>
         </div>
       </div>
-      <div className="flex "> <span>&copy; {new Date().getFullYear()} Otofast Project</span></div>
+      <div className="flex ">
+        {" "}
+        <span>&copy; {new Date().getFullYear()} Otofast Project</span>
+      </div>
     </div>
   );
 }
