@@ -64,7 +64,7 @@ export default function Footer() {
           </ul>
         </div>
       </div>
-      <div className="flex ">Copyrite 2023 Otofast Project</div>
+      <div className="flex "> <span>&copy; {new Date().getFullYear()} Otofast Project</span></div>
     </div>
   );
 }
