@@ -1,4 +1,5 @@
 import React from "react";
+import Analytics from "./components/Analytics";
 
 const Hero = () => {
   return (
@@ -22,6 +23,7 @@ const Hero = () => {
           Get started
         </button>
       </div>
+      <Analytics />
     </div>
   );
 };
