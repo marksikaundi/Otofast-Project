@@ -32,7 +32,6 @@ const Header = () => {
         <Link href="/about" to="about">
           <li className="p-4">About</li>
         </Link>
-        
       </ul>
       <div onClick={handleNav} className={"block md:hidden"}>
         {nav ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}
