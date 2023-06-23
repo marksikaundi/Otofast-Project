@@ -1,4 +1,5 @@
 "use client";
+import Link from "next/link";
 import React, { useEffect, useState } from "react";
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
 
@@ -35,11 +36,22 @@ const Header = () => {
         <h1 className="w-full text-3xl font-bold m-4 text-[#00df9a]">
           Otofast pro
         </h1>
-        <li className="p-4 border-b border-gray-600">Home</li>
-        <li className="p-4 border-b border-gray-600">Courses</li>
-        <li className="p-4 border-b border-gray-600">Codes</li>
-        <li className="p-4 border-b border-gray-600">Projects</li>
-        <li className="p-4">About</li>
+
+        <Link href="/" to="/">
+          <li className="p-4 border-b border-gray-600">Home</li>
+        </Link>
+        <Link href="/courses" to="courses">
+          <li className="p-4 border-b border-gray-600">Courses</li>
+        </Link>
+        <Link href="/codes" to="codes">
+          <li className="p-4 border-b border-gray-600">Codes</li>
+        </Link>
+        <Link href="/projects" to="projects">
+          <li className="p-4 border-b border-gray-600">Projects</li>
+        </Link>
+        <Link href="/about" to="about">
+          <li className="p-4">About</li>
+        </Link>
       </ul>
     </div>
   );
