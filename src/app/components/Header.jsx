@@ -15,12 +15,24 @@ const Header = () => {
       <h1 className="w-full text-3xl font-bold text-[#00df9a]">
         Otofast Project
       </h1>
+      {/* Desktop view */}
       <ul className="hidden md:flex">
-        <li className="p-4">Home</li>
-        <li className="p-4">Courses</li>
-        <li className="p-4">Codes</li>
-        <li className="p-4">Projects</li>
-        <li className="p-4">About</li>
+        <Link href="/" to="/">
+          <li className="p-4 ">Home</li>
+        </Link>
+        <Link href="/courses" to="courses">
+          <li className="p-4 ">Courses</li>
+        </Link>
+        <Link href="/codes" to="codes">
+          <li className="p-4 ">Codes</li>
+        </Link>
+        <Link href="/projects" to="projects">
+          <li className="p-4 ">Projects</li>
+        </Link>
+        <Link href="/about" to="about">
+          <li className="p-4">About</li>
+        </Link>
+        
       </ul>
       <div onClick={handleNav} className={"block md:hidden"}>
         {nav ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}
@@ -33,6 +45,7 @@ const Header = () => {
             : "fixed left-[-100%]"
         }
       >
+        {/* Mobile view */}
         <h1 className="w-full text-3xl font-bold m-4 text-[#00df9a]">
           Otofast pro
         </h1>
