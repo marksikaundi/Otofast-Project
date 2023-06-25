@@ -3,10 +3,10 @@ import React from "react";
 export default function page() {
   return (
     <div className="max-w-6xl mx-auto space-y-4 p-4">
-      <h1 className="text-2xl font-medium text-amber-600">About Us </h1>
+      <h1 className="text-2xl font-medium text-[#00df9a]">About Us </h1>
       <h5 className="text-sm">Last updates 06/25/2023 by Mark Sikaundi</h5>
 
-      <p className="">
+      <p className="text-white">
         Otofast Project is a vibrant community
         of techn enthusiasts and professionals who are passionate about
         exploring the latest trends and innovations in the tech industry. With a
@@ -19,7 +19,7 @@ export default function page() {
         insights and perspectives, and build meaningful connections with peers
         and mentors.
       </p>
-      <p>
+      <p className="text-white">
         Members of the community come from a diverse range of backgrounds and
         fields, including software development, data science, cybersecurity, AI,
         and more, making it a great place to explore different areas of interest
@@ -28,7 +28,7 @@ export default function page() {
         members to connect and engage with the community.
       </p>
 
-      <p>
+      <p className="text-white">
         {" "}
         Whether you are looking to network, collaborate on a project, or simply
         learn more about the latest trends and technologies, Otofast is the
@@ -37,8 +37,8 @@ export default function page() {
       </p>
 
       <div>
-        <h1 className="text-2xl font-medium text-amber-600">Our Team </h1>
-        <p>
+        <h1 className="text-2xl font-medium text-[#00df9a]">Our Team </h1>
+        <p className="text-white">
           We are a team of passionate developers, designers, and writers who are
           committed to creating the best possible experience for our users. We
           believe that technology should be accessible to everyone, and we
@@ -47,7 +47,7 @@ export default function page() {
           with others who share your interests. We hope you enjoy using our
           products as much as we enjoy building them! Happy Coding
         </p>
-        <p>
+        <p className="text-white">
           For any querry or support, you can reach out to us via email  Email us:{" "}
           <a href="mailto:info@devcircleafrica.com">info@devcircleafrica.com</a> or visit
           our community forum at {"forum.devcircleafrica.com "}
