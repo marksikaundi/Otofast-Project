@@ -10,7 +10,7 @@ export default function page() {
         <p className="text-black mb-8">
           Our programmes are rigorous and push individuals to their full
           potential. By the time they graduate, our learners can safely rely on
-          the technical skills they have acquired.{" "}
+          the technical skills they have acquired.
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="bg-white rounded shadow p-4">
@@ -63,7 +63,7 @@ export default function page() {
               specialists, or related roles. They can find employment in
               industries such as technology, healthcare, finance, autonomous
               systems, and many others, where deep learning techniques are
-              applied.{" "}
+              applied.
             </p>
           </div>
           <div className="bg-white rounded shadow p-4">
