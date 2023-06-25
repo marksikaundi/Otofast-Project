@@ -71,7 +71,7 @@ export default function page() {
               Cloud Computing
             </h2>
             <p className="text-black">
-              A cloud computing program is an educational curriculum or training
+              Cloud computing program is an educational curriculum or training
               program that focuses on teaching students the principles,
               technologies, and practices related to cloud computing. Cloud
               computing involves the delivery of computing services, including
