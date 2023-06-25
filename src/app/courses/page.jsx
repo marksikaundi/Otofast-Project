@@ -17,7 +17,16 @@ export default function page() {
             <h2 className="text-black text-2xl font-bold mb-4">
               Software Engineering
             </h2>
-            <p className="text-black"></p>
+            <p className="text-black">
+              Certainly! A software engineering program is a structured
+              educational curriculum or degree program that focuses on teaching
+              students the principles, theories, and practical skills required
+              to develop and maintain software systems. It typically covers a
+              wide range of topics related to software development, including
+              programming languages, algorithms, data structures, software
+              design, software testing, project management, and software
+              architecture.
+            </p>
           </div>
           <div className="bg-white rounded shadow p-4">
             <h2 className="text-black text-2xl font-bold mb-4">
