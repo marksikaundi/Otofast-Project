@@ -4,11 +4,11 @@ export default function page() {
   return (
     <div className="max-w-6xl mx-auto space-y-4 p-4">
       <h1 className="text-2xl font-medium text-amber-600">About Us </h1>
-      <h5 className="text-sm">Last updates 06/12/2023 by Mark Sikaundi</h5>
+      <h5 className="text-sm">Last updates 06/25/2023 by Mark Sikaundi</h5>
 
       <p className="">
         Otofast Project is a vibrant community
-        of technology enthusiasts and professionals who are passionate about
+        of techn enthusiasts and professionals who are passionate about
         exploring the latest trends and innovations in the tech industry. With a
         focus on fostering collaboration, creativity, and learning, the
         community provides a platform for members to connect with like-minded
