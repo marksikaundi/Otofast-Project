@@ -76,7 +76,7 @@ export default function page() {
               technologies, and practices related to cloud computing. Cloud
               computing involves the delivery of computing services, including
               storage, servers, databases, networking, and software
-              applications, over the internet. It's important for professionals
+              applications, over the internet. Its important for professionals
               in cloud computing to stay updated with the latest cloud
               technologies and trends. Cloud service providers often offer
               certifications that validate expertise in their platforms, such as
