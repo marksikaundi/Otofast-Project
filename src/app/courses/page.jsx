@@ -30,21 +30,61 @@ export default function page() {
           </div>
           <div className="bg-white rounded shadow p-4">
             <h2 className="text-black text-2xl font-bold mb-4">
-              Deep Learning
+              Software Testing
             </h2>
-            <p className="text-black"></p>
+            <p className="text-black">
+              A software testing program is an educational curriculum or
+              training program that focuses on teaching students the principles,
+              methodologies, and techniques of software testing. It is designed
+              to equip individuals with the knowledge and skills required to
+              effectively test software applications and ensure their quality
+              and reliability. Software testing programs can be offered as
+              standalone training courses, vocational programs, or as part of a
+              broader software engineering or computer science curriculum.
+            </p>
           </div>
           <div className="bg-white rounded shadow p-4">
             <h2 className="text-black text-2xl font-bold mb-4">
-              Software Testing
+              Deep Learning
             </h2>
-            <p className="text-black"></p>
+            <p className="text-black">
+              A deep learning program is an educational curriculum or training
+              program that focuses on teaching students the principles,
+              techniques, and applications of deep learning, a subfield of
+              machine learning. Deep learning involves training artificial
+              neural networks with multiple layers to automatically learn
+              hierarchical representations of data and make predictions or
+              decisions. Deep learning programs can be offered as standalone
+              courses, specialized tracks within computer science or data
+              science programs, or as part of broader machine learning or
+              artificial intelligence curricula. Upon completion of a deep
+              learning program, graduates can pursue careers as deep learning
+              engineers, machine learning researchers, data scientists, AI
+              specialists, or related roles. They can find employment in
+              industries such as technology, healthcare, finance, autonomous
+              systems, and many others, where deep learning techniques are
+              applied.{" "}
+            </p>
           </div>
           <div className="bg-white rounded shadow p-4">
             <h2 className="text-black text-2xl font-bold mb-4">
               Cloud Computing
             </h2>
-            <p className="text-black"></p>
+            <p className="text-black">
+              A cloud computing program is an educational curriculum or training
+              program that focuses on teaching students the principles,
+              technologies, and practices related to cloud computing. Cloud
+              computing involves the delivery of computing services, including
+              storage, servers, databases, networking, and software
+              applications, over the internet. It's important for professionals
+              in cloud computing to stay updated with the latest cloud
+              technologies and trends. Cloud service providers often offer
+              certifications that validate expertise in their platforms, such as
+              AWS Certified Solutions Architect or Microsoft Certified Azure
+              Administrator. Continued learning and exploring emerging
+              technologies in the cloud space are essential to remain
+              competitive in this rapidly evolving field.
+            </p>
           </div>
         </div>
       </div>
