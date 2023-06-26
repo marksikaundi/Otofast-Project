@@ -26,7 +26,7 @@ const Home = () => {
         </a>
         <p class="mt-2 text-slate-500">
           Looking to take your career to the next level in the world of
-          Technology? We have a list of programms you can check.{" "}
+          Technology? We have a list of programms you can check. {" "}
           <Link href="/courses">
             <button>👉Check Now</button>
           </Link>
