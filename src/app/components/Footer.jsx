@@ -14,10 +14,9 @@ export default function Footer() {
           Otofast Project
         </h1>
         <p className="py-4">
-          Otofast is a software program designed for hearing care professionals
-          such as audiologists and hearing aid specialists. It is a
-          comprehensive solution that streamlines hearing assessment and hearing
-          aid fitting processes.
+          Otofast Project is a vibrant community of technology enthusiasts and
+          professionals who are passionate about exploring the latest trends and
+          innovations in the tech industry.
         </p>
         <div className="flex justify-between md:w-[78%] my-6">
           <FaFacebookSquare size={30} />
