@@ -124,7 +124,7 @@ export default function Example() {
                 et ut. Ac lorem vel integer orci.
               </p>
               <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">
-                No server? No problem.
+                No experience? No problem.
               </h2>
               <p className="mt-6">
                 Id orci tellus laoreet id ac. Dolor, aenean leo, ac etiam
