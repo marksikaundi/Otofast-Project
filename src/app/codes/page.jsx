@@ -1,3 +1,4 @@
+import Link from "next/link";
 import {
   CloudArrowUpIcon,
   LockClosedIcon,
@@ -117,22 +118,25 @@ export default function Example() {
                 </li>
               </ul>
               <p className="mt-8">
-                Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis
-                odio id et. Id blandit molestie auctor fermentum dignissim.
-                Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate
-                et ultrices hac adipiscing egestas. Iaculis convallis ac tempor
-                et ut. Ac lorem vel integer orci.
+                Never be scared to try something new. Remember, amateurs built
+                the ark; professionals built the Titanic. And at the end of all,
+                we all win. So, what are you waiting for? Join us now. and make
+                a change in your life forever with latest technologies in world
+                class of Technology. You can apply for the program by clicking
+                <Link href="/courses">
+                  <button>👉Check Now</button>
+                </Link>
               </p>
               <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">
                 No experience? No problem.
               </h2>
               <p className="mt-6">
-                Id orci tellus laoreet id ac. Dolor, aenean leo, ac etiam
-                consequat in. Convallis arcu ipsum urna nibh. Pharetra, euismod
-                vitae interdum mauris enim, consequat vulputate nibh. Maecenas
-                pellentesque id sed tellus mauris, ultrices mauris. Tincidunt
-                enim cursus ridiculus mi. Pellentesque nam sed nullam sed diam
-                turpis ipsum eu a sed convallis diam.
+                You have no experience in the field of development? No problem,
+                we will help you to learn, grow and become a better developer.
+                Our team will help you with all the problems you face to achieve
+                your goals. It is our responsibility to make you a better
+                developer. And remember, we are always there for you and you
+                with your six figure income job.
               </p>
             </div>
           </div>
