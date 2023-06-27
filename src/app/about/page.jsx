@@ -7,17 +7,16 @@ export default function page() {
       <h5 className="text-sm">Last updates 06/25/2023 by Mark Sikaundi</h5>
 
       <p className="text-white">
-        Otofast Project is a vibrant community
-        of techn enthusiasts and professionals who are passionate about
-        exploring the latest trends and innovations in the tech industry. With a
-        focus on fostering collaboration, creativity, and learning, the
-        community provides a platform for members to connect with like-minded
-        individuals, share their ideas and expertise, and participate in
-        engaging discussions and events. Whether you are a seasoned tech expert
-        or just starting out in your career, Otofast offers a welcoming and
-        supportive environment where you can learn from others, gain new
-        insights and perspectives, and build meaningful connections with peers
-        and mentors.
+        Otofast Project is a vibrant community of techn enthusiasts and
+        professionals who are passionate about exploring the latest trends and
+        innovations in the tech industry. With a focus on fostering
+        collaboration, creativity, and learning, the community provides a
+        platform for members to connect with like-minded individuals, share
+        their ideas and expertise, and participate in engaging discussions and
+        events. Whether you are a seasoned tech expert or just starting out in
+        your career, Otofast offers a welcoming and supportive environment where
+        you can learn from others, gain new insights and perspectives, and build
+        meaningful connections with peers and mentors.
       </p>
       <p className="text-white">
         Members of the community come from a diverse range of backgrounds and
@@ -48,11 +47,17 @@ export default function page() {
           products as much as we enjoy building them! Happy Coding
         </p>
         <p className="text-white">
-          For any querry or support, you can reach out to us via email  Email us:{" "}
-          <a href="mailto:info@devcircleafrica.com">info@devcircleafrica.com</a> or visit
-          our community forum at {"forum.devcircleafrica.com "}
+          For any querry or support, you can reach out to us via email Email us:{" "}
+          <a href="mailto:info@devcircleafrica.com">info@devcircleafrica.com</a>{" "}
+          or visit our{" "}
+          <a
+            href="https://forum.devcircleafrica.com"
+            className="font-semibold text-indigo-600"
+          >
+            <span className="absolute inset-0" aria-hidden="true" />
+            Community Forum <span aria-hidden="true">&rarr;</span>
+          </a>
         </p>
-        <hr />
       </div>
     </div>
   );
