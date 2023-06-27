@@ -55,7 +55,7 @@ export default function Footer() {
               <Link href="/commerce">Commerce</Link>
             </li>
             <li className="py-2 text-sm">
-              <Link href="/marketing">Marketing</Link>
+              <Link href="/ai-tools">AI Tools</Link>
             </li>
             <li className="py-2 text-sm">
               <Link href="/research">Research</Link>
