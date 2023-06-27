@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 import {
   FaFacebookSquare,
   FaGithubSquare,
@@ -8,7 +9,7 @@ import {
 
 export default function Footer() {
   return (
-    <div className="max-w[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300 ">
+    <div className="max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300">
       <div>
         <h1 className="w-full text-3xl font-bold text-[#00df9a]">
           Otofast Project
@@ -29,42 +30,73 @@ export default function Footer() {
         <div>
           <h6 className="font-medium text-gray-400">Solution</h6>
           <ul>
-            <li className="py-2 text-sm">Analytics</li>
-            <li className="py-2 text-sm">Commerce</li>
-            <li className="py-2 text-sm">Marketing</li>
-            <li className="py-2 text-sm">Insight</li>
+            <li className="py-2 text-sm">
+              <Link href="/analytics">Analytics</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/commerce">Commerce</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/marketing">Marketing</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/insight">Insight</Link>
+            </li>
           </ul>
         </div>
         <div>
           <h6 className="font-medium text-gray-400">Support</h6>
           <ul>
-            <li className="py-2 text-sm">Pricing</li>
-            <li className="py-2 text-sm">Documentation</li>
-            <li className="py-2 text-sm">Guides</li>
-            <li className="py-2 text-sm">API status</li>
+            <li className="py-2 text-sm">
+              <Link href="/pricing">Pricing</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/documentation">Documentation</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/guides">Guides</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/api-status">API status</Link>
+            </li>
           </ul>
         </div>
         <div>
           <h6 className="font-medium text-gray-400">Company</h6>
           <ul>
-            <li className="py-2 text-sm">About</li>
-            <li className="py-2 text-sm">Blog</li>
-            <li className="py-2 text-sm">Forum</li>
-            <li className="py-2 text-sm">Careers</li>
+            <li className="py-2 text-sm">
+              <Link href="/about">About</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/blog">Blog</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/forum">Forum</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/careers">Careers</Link>
+            </li>
           </ul>
         </div>
         <div>
           <h6 className="font-medium text-gray-400">Legal</h6>
           <ul>
-            <li className="py-2 text-sm">Claims</li>
-            <li className="py-2 text-sm">Policy</li>
-            <li className="py-2 text-sm">Terms</li>
-            <li className="py-2 text-sm">Courses</li>
+            <li className="py-2 text-sm">
+              <Link href="/claims">Claims</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/policy">Policy</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/terms">Terms</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/courses">Courses</Link>
+            </li>
           </ul>
         </div>
       </div>
-      <div className="flex ">
-        {" "}
+      <div className="flex">
         <span>&copy; {new Date().getFullYear()} Otofast Project</span>
       </div>
     </div>
