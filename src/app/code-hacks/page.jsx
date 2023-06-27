@@ -123,11 +123,10 @@ export default function Example() {
                 we all win. So, what are you waiting for? Join us now. and make
                 a change in your life forever with latest technologies in world
                 class of Technology. You can apply for the program by clicking
-                <Link href="/courses">
-                  <button className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
-                    👉Check Now
-                  </button>
-                </Link>
+                <a href="/courses" className="font-semibold text-indigo-600">
+                  <span className="absolute inset-0" aria-hidden="true" />
+                  Check now <span aria-hidden="true">&rarr;</span>
+                </a>
               </p>
               <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">
                 No experience? No problem.
