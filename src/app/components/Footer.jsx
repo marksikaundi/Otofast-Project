@@ -28,41 +28,7 @@ export default function Footer() {
       </div>
       <div className="lg:col-span-2 mt-6 flex justify-between">
         <div>
-          <h6 className="font-medium text-gray-400">Solution</h6>
-          <ul>
-            <li className="py-2 text-sm">
-              <Link href="/analytics">Analytics</Link>
-            </li>
-            <li className="py-2 text-sm">
-              <Link href="/commerce">Commerce</Link>
-            </li>
-            <li className="py-2 text-sm">
-              <Link href="/marketing">Marketing</Link>
-            </li>
-            <li className="py-2 text-sm">
-              <Link href="/insight">Insight</Link>
-            </li>
-          </ul>
-        </div>
-        <div>
-          <h6 className="font-medium text-gray-400">Support</h6>
-          <ul>
-            <li className="py-2 text-sm">
-              <Link href="/pricing">Pricing</Link>
-            </li>
-            <li className="py-2 text-sm">
-              <Link href="/documentation">Documentation</Link>
-            </li>
-            <li className="py-2 text-sm">
-              <Link href="/guides">Guides</Link>
-            </li>
-            <li className="py-2 text-sm">
-              <Link href="/api-status">API status</Link>
-            </li>
-          </ul>
-        </div>
-        <div>
-          <h6 className="font-medium text-gray-400">Company</h6>
+          <h6 className="font-medium text-gray-400">Products</h6>
           <ul>
             <li className="py-2 text-sm">
               <Link href="/about">About</Link>
@@ -79,19 +45,60 @@ export default function Footer() {
           </ul>
         </div>
         <div>
-          <h6 className="font-medium text-gray-400">Legal</h6>
+          <h6 className="font-medium text-gray-400">Explore</h6>
           <ul>
             <li className="py-2 text-sm">
-              <Link href="/claims">Claims</Link>
+              <Link href="/analytics">Analytics</Link>
             </li>
             <li className="py-2 text-sm">
-              <Link href="/policy">Policy</Link>
+              <Link href="/commerce">Commerce</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/marketing">Marketing</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/insight">Insight</Link>
+            </li>
+          </ul>
+        </div>
+        <div>
+          <h6 className="font-medium text-gray-400">Products</h6>
+          <ul>
+            <li className="py-2 text-sm">
+              <Link href="/pricing">Pricing</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/documentation">Documentation</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/guides">Guides</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/api-status">API status</Link>
+            </li>
+          </ul>
+        </div>
+
+        <div>
+          <h6 className="font-medium text-gray-400">Company</h6>
+          <ul>
+            <li className="py-2 text-sm">
+              <Link href="/about">About</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/blog">Blog</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/careers">careers</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/open-source">Open source</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/privacy">Privacy Policy</Link>
             </li>
             <li className="py-2 text-sm">
               <Link href="/terms">Terms</Link>
-            </li>
-            <li className="py-2 text-sm">
-              <Link href="/courses">Courses</Link>
             </li>
           </ul>
         </div>
