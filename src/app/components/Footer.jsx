@@ -31,17 +31,18 @@ export default function Footer() {
           <h6 className="font-medium text-gray-400">Products</h6>
           <ul>
             <li className="py-2 text-sm">
-              <Link href="/about">About</Link>
+              <Link href="/features">Features</Link>
             </li>
             <li className="py-2 text-sm">
-              <Link href="/blog">Blog</Link>
+              <Link href="/courses">Courses</Link>
             </li>
             <li className="py-2 text-sm">
-              <Link href="/forum">Forum</Link>
+              <Link href="/funding-programs">Fundings</Link>
             </li>
             <li className="py-2 text-sm">
-              <Link href="/careers">Careers</Link>
+              <Link href="/lms">Learning System</Link>
             </li>
+            
           </ul>
         </div>
         <div>
@@ -57,24 +58,33 @@ export default function Footer() {
               <Link href="/marketing">Marketing</Link>
             </li>
             <li className="py-2 text-sm">
-              <Link href="/insight">Insight</Link>
+              <Link href="/research">Research</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/fqa">FQA</Link>
             </li>
           </ul>
         </div>
         <div>
-          <h6 className="font-medium text-gray-400">Products</h6>
+          <h6 className="font-medium text-gray-400">Support</h6>
           <ul>
             <li className="py-2 text-sm">
-              <Link href="/pricing">Pricing</Link>
-            </li>
-            <li className="py-2 text-sm">
-              <Link href="/documentation">Documentation</Link>
+              <Link href="/docs">Docs</Link>
             </li>
             <li className="py-2 text-sm">
               <Link href="/guides">Guides</Link>
             </li>
             <li className="py-2 text-sm">
-              <Link href="/api-status">API status</Link>
+              <Link href="/help">Help</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/projects">Projects</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/code-hacks">Code Hacks</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="/marketplace">Marketplace</Link>
             </li>
           </ul>
         </div>
@@ -89,7 +99,7 @@ export default function Footer() {
               <Link href="/blog">Blog</Link>
             </li>
             <li className="py-2 text-sm">
-              <Link href="/careers">careers</Link>
+              <Link href="https://devcircleafrica.com/careers">careers</Link>
             </li>
             <li className="py-2 text-sm">
               <Link href="/open-source">Open source</Link>
@@ -99,6 +109,9 @@ export default function Footer() {
             </li>
             <li className="py-2 text-sm">
               <Link href="/terms">Terms</Link>
+            </li>
+            <li className="py-2 text-sm">
+              <Link href="https://forum.devcircleafrica.com">Community</Link>
             </li>
           </ul>
         </div>
