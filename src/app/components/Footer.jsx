@@ -17,7 +17,12 @@ export default function Footer() {
         <p className="py-4">
           Otofast Project is a vibrant community of technology enthusiasts and
           professionals who are passionate about exploring the latest trends and
-          innovations in the tech industry.
+          innovations in the tech industry. You can learn more about our parent
+          company by visiting...{" "}
+          <a href="/about" className="font-semibold text-indigo-600">
+            <span className="absolute inset-0" aria-hidden="true" />
+            Read more <span aria-hidden="true">&rarr;</span>
+          </a>
         </p>
         <div className="flex justify-between md:w-[78%] my-6">
           <FaFacebookSquare size={30} />
@@ -42,7 +47,6 @@ export default function Footer() {
             <li className="py-2 text-sm">
               <Link href="/lms">Learning System</Link>
             </li>
-            
           </ul>
         </div>
         <div>
