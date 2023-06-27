@@ -17,8 +17,7 @@ export default function Footer() {
         <p className="py-4">
           Otofast Project is a vibrant community of technology enthusiasts and
           professionals who are passionate about exploring the latest trends and
-          innovations in the tech industry. You can learn more about our parent
-          company by visiting...{" "}
+          innovations in the tech industry. You can learn more about us by visiting...{" "}
           <a href="/about" className="font-semibold text-indigo-600">
             <span className="absolute inset-0" aria-hidden="true" />
             Read more <span aria-hidden="true">&rarr;</span>
