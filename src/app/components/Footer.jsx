@@ -11,9 +11,19 @@ export default function Footer() {
   return (
     <div className="max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300">
       <div>
-        <h1 className="w-full text-3xl font-bold text-[#00df9a]">
+      <div className="flex lg:flex-1">
+            <a href="/" className="-m-1.5 p-1.5">
+              <span className="sr-only">Otofast Project</span>
+              <img
+                className="h-8 w-auto"
+                src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
+                alt=""
+              />
+            </a>
+          </div>
+        {/* <h1 className="w-full text-3xl font-bold text-[#00df9a]">
           Otofast Project
-        </h1>
+        </h1> */}
         <p className="py-4">
           Otofast Project is a vibrant community of technology enthusiasts and
           professionals who are passionate about exploring the latest trends and
