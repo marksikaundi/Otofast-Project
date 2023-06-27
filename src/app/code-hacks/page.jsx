@@ -122,7 +122,8 @@ export default function Example() {
                 the ark; professionals built the Titanic. And at the end of all,
                 we all win. So, what are you waiting for? Join us now. and make
                 a change in your life forever with latest technologies in world
-                class of Technology. You can apply for the program by clicking
+                class of Technology. You can apply for the program of your
+                choice by clicking <br />
                 <a href="/courses" className="font-semibold text-indigo-600">
                   <span className="absolute inset-0" aria-hidden="true" />
                   Check now <span aria-hidden="true">&rarr;</span>
