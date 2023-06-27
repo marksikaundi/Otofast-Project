@@ -28,7 +28,7 @@ export default function Footer() {
       </div>
       <div className="lg:col-span-2 mt-6 flex justify-between">
         <div>
-          <h6 className="font-medium text-gray-400">Products</h6>
+          <h6 className="font-medium text-white bold">Products</h6>
           <ul>
             <li className="py-2 text-sm">
               <Link href="/features">Features</Link>
@@ -46,7 +46,7 @@ export default function Footer() {
           </ul>
         </div>
         <div>
-          <h6 className="font-medium text-gray-400">Explore</h6>
+          <h6 className="font-medium text-white bold">Explore</h6>
           <ul>
             <li className="py-2 text-sm">
               <Link href="/analytics">Analytics</Link>
@@ -66,7 +66,7 @@ export default function Footer() {
           </ul>
         </div>
         <div>
-          <h6 className="font-medium text-gray-400">Support</h6>
+          <h6 className="font-medium text-white bold">Support</h6>
           <ul>
             <li className="py-2 text-sm">
               <Link href="/docs">Docs</Link>
@@ -90,7 +90,7 @@ export default function Footer() {
         </div>
 
         <div>
-          <h6 className="font-medium text-gray-400">Company</h6>
+          <h6 className="font-medium text-white bold">Company</h6>
           <ul>
             <li className="py-2 text-sm">
               <Link href="/about">About</Link>
