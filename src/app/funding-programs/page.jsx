@@ -1,6 +1,5 @@
 "use client";
 import { useState } from "react";
-import { ChevronDownIcon } from "@heroicons/react/20/solid";
 import { Switch } from "@headlessui/react";
 
 function classNames(...classes) {
@@ -31,7 +30,7 @@ export default function Example() {
         <p className="mt-2 text-lg leading-8 text-gray-600">
           If you have any questions, please fill out the form below and we will
           get back to you as soon as possible. or email us at →
-          {"info@devcircleafrica.com "}
+          {"info@devcircleafrica.com"}
         </p>
       </div>
       <form
@@ -79,7 +78,7 @@ export default function Example() {
               htmlFor="Organization-If Any"
               className="block text-sm font-semibold leading-6 text-gray-900"
             >
-              Organization If Any
+              Organization if Any
             </label>
             <div className="mt-2.5">
               <input
