@@ -60,10 +60,7 @@ export default function page() {
               artificial intelligence curricula. Upon completion of a deep
               learning program, graduates can pursue careers as deep learning
               engineers, machine learning researchers, data scientists, AI
-              specialists, or related roles. They can find employment in
-              industries such as technology, healthcare, finance, autonomous
-              systems, and many others, where deep learning techniques are
-              applied.
+              specialists, or related roles.
             </p>
           </div>
           <div className="bg-white rounded shadow p-4">
