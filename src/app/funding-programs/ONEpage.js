@@ -39,15 +39,9 @@ export default function Example() {
         data-netlify="true"
         className="mx-auto mt-16 max-w-xl sm:mt-20"
       > */}
-      {/* <form
+      <form
         method="POST"
         action="https://formspree.io/f/mqkvzwgp"
-        className="mx-auto mt-16 max-w-xl sm:mt-20"
-      > */}
-      <form
-        name="contact"
-        method="POST"
-        data-netlify="true"
         className="mx-auto mt-16 max-w-xl sm:mt-20"
       >
         <div className="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
@@ -193,7 +187,7 @@ export default function Example() {
             type="submit"
             className="block w-full rounded-md bg-indigo-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
           >
-            Apply Now{" "}
+            Connect Now{" "}
           </button>
         </div>
       </form>
