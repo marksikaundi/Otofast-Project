@@ -45,6 +45,7 @@ export default function Example() {
         className="mx-auto mt-16 max-w-xl sm:mt-20"
       > */}
       <form
+      
         name="contact"
         method="POST"
         data-netlify="true"
@@ -60,7 +61,7 @@ export default function Example() {
             </label>
             <div className="mt-2.5">
               <input
-                type="text"
+                type="hidden"
                 name="first-name"
                 id="first-name"
                 autoComplete="given-name"
@@ -77,7 +78,7 @@ export default function Example() {
             </label>
             <div className="mt-2.5">
               <input
-                type="text"
+                type="hidden"
                 name="last-name"
                 id="last-name"
                 autoComplete="family-name"
@@ -94,7 +95,7 @@ export default function Example() {
             </label>
             <div className="mt-2.5">
               <input
-                type="text"
+                type="hidden"
                 name="Organization-If Any"
                 id="Organization-If Any"
                 autoComplete="organization"
@@ -111,7 +112,7 @@ export default function Example() {
             </label>
             <div className="mt-2.5">
               <input
-                type="email"
+                type="hidden"
                 name="email"
                 id="email"
                 autoComplete="email"
@@ -133,7 +134,7 @@ export default function Example() {
                 </label>
               </div>
               <input
-                type="tel"
+                type="hidden"
                 name="phone-number"
                 id="phone-number"
                 placeholder="+260 776 578 583"
