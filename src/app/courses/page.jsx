@@ -26,6 +26,10 @@ export default function page() {
               programming languages, algorithms, data structures, software
               design, software testing, project management, and software
               architecture.
+              <a href="/about" className="font-semibold text-indigo-600">
+                <span className="absolute inset-0" aria-hidden="true" />
+                Apply Now <span aria-hidden="true">&rarr;</span>
+              </a>
             </p>
           </div>
           <div className="bg-white rounded shadow p-4">
@@ -41,6 +45,10 @@ export default function page() {
               and reliability. Software testing programs can be offered as
               standalone training courses, vocational programs, or as part of a
               broader software engineering or computer science curriculum.
+              <a href="/about" className="font-semibold text-indigo-600">
+                <span className="absolute inset-0" aria-hidden="true" />
+                Apply Now <span aria-hidden="true">&rarr;</span>
+              </a>
             </p>
           </div>
           <div className="bg-white rounded shadow p-4">
@@ -61,6 +69,10 @@ export default function page() {
               learning program, graduates can pursue careers as deep learning
               engineers, machine learning researchers, data scientists, AI
               specialists, or related roles.
+              <a href="/about" className="font-semibold text-indigo-600">
+                <span className="absolute inset-0" aria-hidden="true" />
+                Apply Now <span aria-hidden="true">&rarr;</span>
+              </a>
             </p>
           </div>
           <div className="bg-white rounded shadow p-4">
@@ -81,6 +93,10 @@ export default function page() {
               Administrator. Continued learning and exploring emerging
               technologies in the cloud space are essential to remain
               competitive in this rapidly evolving field.
+              <a href="/about" className="font-semibold text-indigo-600">
+                <span className="absolute inset-0" aria-hidden="true" />
+                Apply Now <span aria-hidden="true">&rarr;</span>
+              </a>
             </p>
           </div>
         </div>
