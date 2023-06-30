@@ -33,8 +33,13 @@ export default function Example() {
           {"info@devcircleafrica.com"}
         </p>
       </div>
-      <form name="contact" method="POST" data-netlify="true" className="mx-auto mt-16 max-w-xl sm:mt-20">
-      {/* <form
+      <form
+        name="contact"
+        method="POST"
+        data-netlify="true"
+        className="mx-auto mt-16 max-w-xl sm:mt-20"
+      >
+        {/* <form
         action="/success"
         method="POST"
         data-netlify="true"
