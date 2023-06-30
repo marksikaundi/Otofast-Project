@@ -25,8 +25,11 @@ export default function page() {
               wide range of topics related to software development, including
               programming languages, algorithms, data structures, software
               design, software testing, project management, and software
-              architecture.
-              <a href="/about" className="font-semibold text-indigo-600">
+              architecture. {" "}
+              <a
+                href="/funding-programs"
+                className="font-semibold text-indigo-600"
+              >
                 <span className="absolute inset-0" aria-hidden="true" />
                 Apply Now <span aria-hidden="true">&rarr;</span>
               </a>
@@ -44,8 +47,11 @@ export default function page() {
               effectively test software applications and ensure their quality
               and reliability. Software testing programs can be offered as
               standalone training courses, vocational programs, or as part of a
-              broader software engineering or computer science curriculum.
-              <a href="/about" className="font-semibold text-indigo-600">
+              broader software engineering or computer science curriculum.{" "}
+              <a
+                href="/funding-programs"
+                className="font-semibold text-indigo-600"
+              >
                 <span className="absolute inset-0" aria-hidden="true" />
                 Apply Now <span aria-hidden="true">&rarr;</span>
               </a>
@@ -68,8 +74,11 @@ export default function page() {
               artificial intelligence curricula. Upon completion of a deep
               learning program, graduates can pursue careers as deep learning
               engineers, machine learning researchers, data scientists, AI
-              specialists, or related roles.
-              <a href="/about" className="font-semibold text-indigo-600">
+              specialists, or related roles.{" "}
+              <a
+                href="/funding-programs"
+                className="font-semibold text-indigo-600"
+              >
                 <span className="absolute inset-0" aria-hidden="true" />
                 Apply Now <span aria-hidden="true">&rarr;</span>
               </a>
@@ -92,8 +101,11 @@ export default function page() {
               AWS Certified Solutions Architect or Microsoft Certified Azure
               Administrator. Continued learning and exploring emerging
               technologies in the cloud space are essential to remain
-              competitive in this rapidly evolving field.
-              <a href="/about" className="font-semibold text-indigo-600">
+              competitive in this rapidly evolving field.{" "}
+              <a
+                href="/funding-programs"
+                className="font-semibold text-indigo-600"
+              >
                 <span className="absolute inset-0" aria-hidden="true" />
                 Apply Now <span aria-hidden="true">&rarr;</span>
               </a>
