@@ -33,18 +33,17 @@ export default function Example() {
           {"info@devcircleafrica.com"}
         </p>
       </div>
-      <form
+      {/* <form
         name="contact"
         method="POST"
         data-netlify="true"
         className="mx-auto mt-16 max-w-xl sm:mt-20"
-      >
-        {/* <form
-        action="/success"
-        method="POST"
-        data-netlify="true"
-        className="mx-auto mt-16 max-w-xl sm:mt-20"
       > */}
+      <form
+        method="POST"
+        action="https://formspree.io/f/mqkvzwgp"
+        className="mx-auto mt-16 max-w-xl sm:mt-20"
+      >
         <div className="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
           <div>
             <label
