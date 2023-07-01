@@ -147,7 +147,7 @@ export default function Example() {
             <p className="mt-6 text-lg leading-8 text-gray-600">
               Otofast Project gives 6-month or more, immersive program that
               gives you the skills and tools you need to kick-start your career
-              in tech.{" "}
+              in tech field.{" "}
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
