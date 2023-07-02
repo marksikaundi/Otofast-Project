@@ -6,6 +6,11 @@ export default function page() {
       <h1 className="text-2xl font-medium text-[#00df9a]">Privacy Policy </h1>
       <h5 className="text-sm">by Mark Sikaundi</h5>
 
+      <p>
+        <strong>Privacy Policy</strong> <br /> Effective date: September 01,
+        2023 we are updating
+      </p>
+
       <p className="text-white">
         Otofast Project is a vibrant community of tech enthusiasts and
         professionals who are passionate about exploring the latest trends and
@@ -46,7 +51,6 @@ export default function page() {
           with others who share your interests. We hope you enjoy using our
           products as much as we enjoy building them! Happy Coding
         </p>
-        
       </div>
     </div>
   );
