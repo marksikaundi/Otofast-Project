@@ -9,13 +9,15 @@ export default function page() {
         <strong>Privacy Policy</strong> <br /> Effective date: September 01,
         2023 we are updating
       </p>
-      key points
-      <ul className="list-disc list-inside">
-        <li>we do not collect any data</li>
-        <li>we do not store any data</li>
-        <li>we do not share any data</li>
-        <li>we do not sell any data</li>
-      </ul>
+      <p className="text-white">
+        key points
+        <ul className="list-disc list-inside">
+          <li>we do not collect any data</li>
+          <li>we do not store any data</li>
+          <li>we do not share any data</li>
+          <li>we do not sell any data</li>
+        </ul>
+      </p>
       Interpretation and Definitions
       <p className="text-white">
         Interpretation <br /> The words of which the initial letter is
