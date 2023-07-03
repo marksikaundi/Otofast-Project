@@ -147,11 +147,74 @@ export default function page() {
         2 weeks for a response.
       </p>
 
-      <p className="text-white"></p>
+      <div>
+        <h1 className="text-2xl font-medium text-[#00df9a]">
+          {" "}
+          Limitation of Liability
+        </h1>
+        <p className="text-white">
+          To the fullest extent permitted by applicable law, in no event will
+          Otofast Project, its affiliates, officers, directors, employees,
+          agents, suppliers or licensors be liable to any person for (a): any
+          indirect, incidental, special, punitive, cover or consequential
+          damages (including, without limitation, damages for lost profits,
+          revenue, sales, goodwill, use or content, impact on business, business
+          interruption, loss of anticipated savings, loss of business
+          opportunity) however caused, under any theory of liability, including,
+          without limitation, contract, tort, warranty, breach of statutory
+          duty, negligence or otherwise, even if Otofast Project has been
+          advised as to the possibility of such damages or could have foreseen
+          such damages. To the maximum extent permitted by applicable law, the
+          aggregate liability of Otofast Project and its affiliates, officers,
+          employees, agents, suppliers and licensors, relating to the services
+          will be limited to an amount greater of one dollar or any amounts
+          actually paid in cash by you to Otofast Project for the prior one
+          month period prior to the first event or occurrence giving rise to
+          such liability. The limitations and exclusions also apply if this
+          remedy does not fully compensate you for any losses or fails of its
+          essential purpose. Indemnification You agree to indemnify and hold Oto
+          2 weeks for a response. Approved organizations may hyperlink to our
+          Web 2 weeks for a response.
+        </p>
+      </div>
 
       <div>
-        <h1 className="text-2xl font-medium text-[#00df9a]">Our Team </h1>
-        <p className="text-white"></p>
+        <h1 className="text-2xl font-medium text-[#00df9a]">
+          Translation Interpretation{" "}
+        </h1>
+        <p className="text-white">
+          These Terms and Conditions may have been translated if we have made
+          them available to you on our Service. You agree that the original
+          English text shall prevail in the case of a dispute. Changes to These
+          Terms and Conditions We reserve the right, at Our sole discretion, to
+          modify or replace these Terms at any time. If a revision is material
+          We will make reasonable efforts to provide at least 30 days' notice
+          prior to any new terms taking effect. What Constitutes a Material
+          Change will be determined at Our sole discretion. By continuing to
+          access or use Our Service after those revisions become effective, You
+          agree to be bound by the revised terms. If You do not agree to the new
+          terms, in whole or in part, please stop using the website and the
+          Service. Contact Us If you have any questions about these Terms and
+          Conditions, You can contact us: By email: support@devcircleafrica.com
+        </p>
+      </div>
+      <div>
+        <h1 className="text-2xl font-medium text-[#00df9a]">
+          Changes to These Terms and Conditions{" "}
+        </h1>
+        <p className="text-white">
+          We reserve the right, at Our sole discretion, to modify or replace the
+          Terms at any time. If a revision is material We will make reasonable
+          efforts to provide at least 30 days' notice prior to any new terms
+          taking effect. What constitutes a material change will be determined
+          at Our sole discretion. By continuing to access or use Our Service
+          after those revisions become effective, You agree to be bound by the
+          revised terms. If You do not agree to the new terms, in whole or in
+          part, please stop using the website and the Service. Contact Us If you
+          have any questions about these Terms and Conditions, You can contact
+          us: By email: support@devcircleafrica.com By visiting this page on our
+          website: forum.devcircleafrica.com
+        </p>
       </div>
     </div>
   );
