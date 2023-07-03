@@ -240,8 +240,8 @@ export default function page() {
         {" forum.devcircleafrica.com"} <br /> By phone number: +234 810 000 0000{" "}
         <br />{" "}
       </p>
+      <h1 className="text-2xl font-medium text-[#00df9a]">Terms of Use</h1>
       <p className="text-white">
-        <h1 className="text-2xl font-medium text-[#00df9a]">Terms of Use</h1>
         <p className="text-white">
           These Terms of Use ("Terms", "Terms of Use") govern your relationship
           with the DevCircle Africa website (the "Service") operated by
@@ -315,21 +315,10 @@ export default function page() {
           effective, you agree to be bound by the revised terms. If you do not
           agree to the new terms, please stop using the Service. <br /> Contact
           Us <br /> If you have any questions about these Terms, please contact
-          us. <br /> By email: support@devcircleafrica.com and you will be attended.{" "}
+          us. <br /> By email: support@devcircleafrica.com and you will be
+          attended.{" "}
         </p>
       </p>
-      <div>
-        <h1 className="text-2xl font-medium text-[#00df9a]">Our Team </h1>
-        <p className="text-white">
-          We are a team of passionate developers, designers, and writers who are
-          committed to creating the best possible experience for our users. We
-          believe that technology should be accessible to everyone, and we
-          strive to make our products as easy to use as possible. Our goal is to
-          provide you with a platform where you can learn, share, and connect
-          with others who share your interests. We hope you enjoy using our
-          products as much as we enjoy building them! Happy Coding
-        </p>
-      </div>
     </div>
   );
 }
