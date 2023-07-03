@@ -80,8 +80,7 @@ export default function page() {
         activity on our Service. Flash Cookies are not managed by the same
         browser settings as those used for Browser Cookies. For more information
         on how You can delete Flash Cookies, please read "Where can I change the
-        settings for disabling, or deleting local shared objects?" available at
-        https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html#main_Where_can_I_change_the_settings_for_disabling__or_deleting_local_shared_objects_{" "}
+        settings for disabling, or deleting local shared objects?"
         <br /> Web Beacons. Certain sections of our Service and our emails may
         contain small electronic files known as web beacons (also referred to as
         clear gifs, pixel tags, and single-pixel gifs) that permit the Company,
