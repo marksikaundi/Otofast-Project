@@ -9,6 +9,10 @@ export default function sitemap() {
       lastModified: new Date(),
     },
     {
+      url: "https://otofastproject.com/lms",
+      lastModified: new Date(),
+    },
+    {
       url: "https://otofastproject.com/features",
       lastModified: new Date(),
     },
