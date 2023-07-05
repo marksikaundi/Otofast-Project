@@ -35,10 +35,18 @@ export default function Footer() {
           </a>
         </p>
         <div className="flex justify-between md:w-[78%] my-6">
-          <FaFacebookSquare size={30} />
-          <FaGithubSquare size={30} />
-          <FaInstagramSquare size={30} />
-          <FaTwitterSquare size={30} />
+          <Link href="https://facebook.com/Alisikaundi">
+            <FaFacebookSquare size={25} />{" "}
+          </Link>
+          <Link href="https://github.com/cs60apa">
+            <FaGithubSquare size={25} />{" "}
+          </Link>
+          <Link href="https://instagram.com/marksikaundi">
+            <FaInstagramSquare size={25} />{" "}
+          </Link>
+          <Link href="https://twitter.com/Alisikaundi">
+            <FaTwitterSquare size={25} />{" "}
+          </Link>
         </div>
       </div>
       <div className="lg:col-span-2 mt-6 flex justify-between">
