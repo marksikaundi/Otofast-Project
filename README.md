@@ -22,20 +22,7 @@ Welcome to the home of innovation at [Otofast Project](http://otofastproject.com
 
 Whether you're a seasoned tech expert or just starting out in your career, Otofast offers a welcoming and supportive environment where you can learn from others, gain new insights and perspectives, and build meaningful connections with peers and mentors. Members of the community come from a diverse range of backgrounds and fields, including software development, data science, cybersecurity, AI, and more, making it a great place to explore different areas of interest and broaden your horizons.
 
-From meetups and hackathons to online forums and social media groups, Otofast offers a range of opportunities for members to connect and engage with the community. Whether you're looking to network, collaborate on a project, or simply learn more about the latest trends and technologies, Otofast is the place to be for anyone passionate about tech., [VS Code][vscode], [React.js][React]
-and [Bootstrap][bootstrap] to name a few.
-
-[vscode]: https://github.com/Microsoft/vscode
-[vue]: https://github.com/vuejs/vue
-[bootstrap]: https://github.com/twbs/bootstrap
-
-This repo hosts:
-
-- The [Otofast][otofastproject.com]
-- Frontend only - {backend near future}
-  - [documentation]()
-  - [changelog]()
-- The [frontend design specification]()
+From meetups and hackathons to online forums and social media groups, Otofast offers a range of opportunities for members to connect and engage with the community. Whether you're looking to network, collaborate on a project, or simply learn more about the latest trends and technologies, Otofast is the place to be for anyone passionate about tech.
 
 [badge-maker]: https://www.npmjs.com/package/badge-maker
 [badge-spec]: https://github.com/badges/shields/tree/master/spec
