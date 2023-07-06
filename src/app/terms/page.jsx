@@ -143,7 +143,6 @@ export default function page() {
         agreement. iFrames Without prior approval and written permission, you
         may not create frames around our Webpages. We do not warrant that the
         information on this website is complete, true, or 3 weeks for a response
-        2 weeks for a response. Approved organizations may hyperlink to our Web
         2 weeks for a response.
       </p>
 
@@ -195,7 +194,7 @@ export default function page() {
           agree to be bound by the revised terms. If You do not agree to the new
           terms, in whole or in part, please stop using the website and the
           Service. Contact Us If you have any questions about these Terms and
-          Conditions, You can contact us: By email: support@devcircleafrica.com
+          Conditions.
         </p>
       </div>
       <div>
@@ -212,8 +211,7 @@ export default function page() {
           revised terms. If You do not agree to the new terms, in whole or in
           part, please stop using the website and the Service. Contact Us If you
           have any questions about these Terms and Conditions, You can contact
-          us: By email: support@devcircleafrica.com By visiting this page on our
-          website: forum.devcircleafrica.com
+          us: By email: support@devcircleafrica.com
         </p>
       </div>
     </div>
