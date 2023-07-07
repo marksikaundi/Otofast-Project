@@ -6,10 +6,10 @@ export default function page() {
       <h1 className="text-2xl font-medium text-[#00df9a]">Privacy Policy </h1>
       <h5 className="text-sm">by Mark Sikaundi</h5>
       <p className="text-white">
-        <br /> Effective date: September 01, 2023 we are updating
+        <br /> Last updated 07 July - 2023
       </p>
       <p className="text-white">
-        key points
+        Key Points
         <ul className="list-disc list-inside">
           <li>we do not collect any data</li>
           <li>we do not store any data</li>
