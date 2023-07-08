@@ -54,10 +54,10 @@ export default function Example() {
           </div>
           <div className="hidden lg:flex lg:flex-1 lg:justify-end">
             <a
-              href="/courses"
+              href="https://lms.devcircleafrica.com/courses"
               className="text-sm font-semibold leading-6 text-gray-900"
             >
-              Apply now <span aria-hidden="true">&rarr;</span>
+              Enroll Now <span aria-hidden="true">&rarr;</span>
             </a>
           </div>
         </nav>
