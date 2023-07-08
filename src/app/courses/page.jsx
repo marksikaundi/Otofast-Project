@@ -27,11 +27,11 @@ export default function page() {
               design, software testing, project management, and software
               architecture. {" "}
               <a
-                href="/funding-programs"
+                href="https://lms.devcircleafrica.com/courses/software-engineering"
                 className="font-semibold text-indigo-600"
               >
                 <span className="absolute inset-0" aria-hidden="true" />
-                Apply Now <span aria-hidden="true">&rarr;</span>
+                Enroll Now <span aria-hidden="true">&rarr;</span>
               </a>
             </p>
           </div>
@@ -49,11 +49,11 @@ export default function page() {
               standalone training courses, vocational programs, or as part of a
               broader software engineering or computer science curriculum.{" "}
               <a
-                href="/funding-programs"
+                href="https://lms.devcircleafrica.com/courses/software-testing"
                 className="font-semibold text-indigo-600"
               >
                 <span className="absolute inset-0" aria-hidden="true" />
-                Apply Now <span aria-hidden="true">&rarr;</span>
+                Enroll Now <span aria-hidden="true">&rarr;</span>
               </a>
             </p>
           </div>
@@ -76,11 +76,11 @@ export default function page() {
               engineers, machine learning researchers, data scientists, AI
               specialists, or related roles.{" "}
               <a
-                href="/funding-programs"
+                href="https://lms.devcircleafrica.com/courses/deep-learning"
                 className="font-semibold text-indigo-600"
               >
                 <span className="absolute inset-0" aria-hidden="true" />
-                Apply Now <span aria-hidden="true">&rarr;</span>
+                Enroll Now <span aria-hidden="true">&rarr;</span>
               </a>
             </p>
           </div>
@@ -103,11 +103,11 @@ export default function page() {
               technologies in the cloud space are essential to remain
               competitive in this rapidly evolving field.{" "}
               <a
-                href="/funding-programs"
+                href="https://lms.devcircleafrica.com/courses/cloud-computing"
                 className="font-semibold text-indigo-600"
               >
                 <span className="absolute inset-0" aria-hidden="true" />
-                Apply Now <span aria-hidden="true">&rarr;</span>
+                Enroll Now <span aria-hidden="true">&rarr;</span>
               </a>
             </p>
           </div>
