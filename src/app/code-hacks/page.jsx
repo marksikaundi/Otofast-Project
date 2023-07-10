@@ -97,7 +97,7 @@ export default function Example() {
                   />
                   <span>
                     <strong className="font-semibold text-gray-900">
-                      SSL certificates.
+                      Unlock oppotunity
                     </strong>{" "}
                     Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure
                     qui lorem cupidatat commodo.
