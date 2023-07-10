@@ -99,8 +99,8 @@ export default function Example() {
                     <strong className="font-semibold text-gray-900">
                       Unlock oppotunity
                     </strong>{" "}
-                    Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure
-                    qui lorem cupidatat commodo.
+                    Too many opportunities are open if yo have relevant skills
+                    and the ability to deliver to the market.
                   </span>
                 </li>
                 <li className="flex gap-x-3">
