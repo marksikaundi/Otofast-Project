@@ -13,7 +13,7 @@ export default function page() {
       </div>
       {/* Content on the right side */}
       <div className="flex-grow p-4">
-        <h2 className="text-3xl font-bold mb-4">Otofast AI</h2>
+        <h2 className="text-3xl font-bold mb-4 text-white">Otofast AI</h2>
         <p className="text-white">
           OpenAI just launched custom instructions for ChatGPT users, so they
           don’t have to write the same instruction prompts to the chatbot every
