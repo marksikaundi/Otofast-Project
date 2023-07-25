@@ -6,6 +6,7 @@ import {
   FaInstagramSquare,
   FaTwitterSquare,
 } from "react-icons/fa";
+import Image from "next/image";
 
 export default function Footer() {
   return (
@@ -14,10 +15,10 @@ export default function Footer() {
         <div className="flex lg:flex-1">
           <a href="/" className="-m-1.5 p-1.5">
             <span className="sr-only">Otofast Project</span>
-            <img
+            <Image
               className="h-8 w-auto"
-              src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
-              alt=""
+              src="/logo.png"
+              alt="Logo"
             />
           </a>
         </div>
