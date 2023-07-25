@@ -1,3 +1,4 @@
+
 import React from "react";
 import Link from "next/link";
 import {
@@ -19,6 +20,8 @@ export default function Footer() {
               className="h-8 w-auto"
               src="/logo.png"
               alt="Logo"
+              width={100}
+              height={100}
             />
           </a>
         </div>

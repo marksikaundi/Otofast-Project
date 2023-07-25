@@ -25,7 +25,13 @@ export default function Example() {
           <div className="flex lg:flex-1">
             <a href="/" className="-m-1.5 p-1.5">
               <span className="sr-only">Otofast Project</span>
-              <Image className="h-8 w-auto" src="/logo.png" alt="Logo" />
+              <Image
+              className="h-8 w-auto"
+              src="/logo.png"
+              alt="Logo"
+              width={100}
+              height={100}
+            />
             </a>
           </div>
           <div className="flex lg:hidden">
@@ -69,7 +75,13 @@ export default function Example() {
             <div className="flex items-center justify-between">
               <a href="/" className="-m-1.5 p-1.5">
                 <span className="sr-only">Otofast Project</span>
-                <Image className="h-8 w-auto" src="/logo.png" alt="Logo" />
+                <Image
+              className="h-8 w-auto"
+              src="/logo.png"
+              alt="Logo"
+              width={100}
+              height={100}
+            />
               </a>
               <button
                 type="button"
