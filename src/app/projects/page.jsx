@@ -27,7 +27,7 @@ export default function page() {
           vacation planning accordingly. While users can already specify these
           things while chatting with the bot, custom instructions are helpful if
           users need to set the same context frequently.
-          <a href="#" className="font-semibold text-indigo-600">
+          <a href="https://otofast.vercel.app" className="font-semibold text-indigo-600">
             <span className="absolute inset-0" aria-hidden="true" />
               Check Demo <span aria-hidden="true">&rarr;</span>
           </a>
