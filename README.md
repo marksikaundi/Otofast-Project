@@ -38,13 +38,13 @@ From meetups and hackathons to online forums and social media groups, Otofast of
 - static code analysis grade: ![codacy](https://img.shields.io/badge/codacy-B-green)
 
 
-### Quickstart👨‍💻
+### Quickstart👨‍💻🪲
 
 Browse a [complete list of featured you can contribute to][Ducumentation.md] and locate a particular badge by using the search bar or by browsing the categories. Click on the badge to fill in required data elements for that badge type (like your username or repo) and optionally customize (label, colors etc.). And it's ready for use!
 
 Use the button at the bottom to copy your badge url or snippet, which can then be added to places like your GitHub readme files or other web pages.
 
-## Contributing
+## Contributing Criteria
 
 Otofast Project Community. We invite your participation through issues
 and pull requests. You can peruse the [contributing guidelines][contributing].
