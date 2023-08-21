@@ -110,7 +110,6 @@ export default function page() {
         absent a trademark license agreement. iFrames Without prior approval and
         written permission, you may not create frames around our Webpages. We do
         not warrant that the information on this website is complete, true, or 3
-        weeks for a response. Approved organizations may hyperlink to our Web 2
         weeks for a response.
       </p>
       <p className="text-white">
